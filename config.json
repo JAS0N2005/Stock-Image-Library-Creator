@@ -1,0 +1,17 @@
+{
+  "image_organizer": {
+    "pending_excel":"G:\\My Drive\\Bochnia_OUTPUT\\PENDING\\PENDING_REVIEW.xlsx",
+    "output_dir":"G:\\My Drive\\Bochnia_OUTPUT\\PENDING",
+    "mode":"FILL",
+    "verbose":false
+  },
+  "stock_library":{
+    "database_csv":"G:\\My Drive\\HireThen\\Internal - Flyberg Content\\POI BreakOut Pictures\\STOCK IMAGES\\STOCK_DATABASE.csv",
+    "type_column":"Type",
+    "output_folder":"G:\\My Drive\\HireThen\\Internal - Flyberg Content\\POI BreakOut Pictures\\STOCK IMAGES",
+    "n_images_per_api":5,
+    "unsplash":{"access_key":"I7lrQ_PTAhnz3z662zK3FoaGf_GaMGNClrLS-6wvSaQ"},
+    "pexels":{"api_key":"T5NMhBAmPGnxtIA3hY34ejgunNDJqjPu6c2vgA8ECIEsCz9yH720LDYC"},
+    "pixabay":{"api_key":"51464414-1d83eb06bfdf3164b71156c0d"}
+  }
+}

@@ -169,6 +169,9 @@ Imagine you have a list of 200 activities, each tagged as “Mountain”, “Bea
 
 ---
 
-## 📬 Questions or Contributions
+## Contributing
 
-Feel free to open issues or submit pull requests to improve the automation further!
+Yours truly
+Subhojyoti :]
+
+---

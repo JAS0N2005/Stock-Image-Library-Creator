@@ -1,0 +1,9 @@
+{
+    "input_excel_path": "K:\\My Drive\\HireThen\\Internal - Flyberg Content\\Location Scrapping Info\\Subhojyoti\\Hashtags Completed Data\\FINAL Tokyo.xlsx",
+    "output_folder": "K:\\My Drive\\HireThen\\Internal - Flyberg Content\\POI BreakOut Pictures\\STOCK IMAGES",
+    "type_column": "Type",
+    "n_images_per_api": 5,
+    "unsplash": {"access_key": "I7lrQ_PTAhnz3z662zK3FoaGf_GaMGNClrLS-6wvSaQ"},
+    "pexels": {"api_key": "T5NMhBAmPGnxtIA3hY34ejgunNDJqjPu6c2vgA8ECIEsCz9yH720LDYC"},
+    "pixabay": {"api_key": "51464414-1d83eb06bfdf3164b71156c0d"}
+}
